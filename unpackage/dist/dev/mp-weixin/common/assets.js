@@ -1,0 +1,11 @@
+"use strict";
+const _imports_0 = "/static/html/image/pond-head.png";
+const _imports_1 = "/static/html/image/pond-button.png";
+const _imports_2 = "/static/html/image/pond-cj.png";
+const _imports_3 = "/static/html/image/pond-success.png";
+const _imports_4 = "/static/html/image/pond-empty.png";
+exports._imports_0 = _imports_0;
+exports._imports_1 = _imports_1;
+exports._imports_2 = _imports_2;
+exports._imports_3 = _imports_3;
+exports._imports_4 = _imports_4;
